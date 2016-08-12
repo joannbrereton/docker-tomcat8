@@ -1,6 +1,6 @@
 FROM brereton/centos7-jdk7
 
-MAINTAINER "JoAnn Brereton <joann.brereton@mlb.com>
+MAINTAINER "JoAnn Brereton <joann.brereton@gmail.com>
 
 ENV TOMCAT_VERSION 8.0.23
 
