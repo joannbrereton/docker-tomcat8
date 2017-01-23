@@ -24,5 +24,5 @@ EXPOSE 8080
 EXPOSE 8009
 
 USER tomcat
-CMD ["/opt/tomcat/bin/startup.sh"]
+CMD ["/opt/tomcat/bin/catalina.sh", "run"]
 
